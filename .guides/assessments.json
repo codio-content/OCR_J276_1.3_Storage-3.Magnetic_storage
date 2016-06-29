@@ -1,0 +1,342 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-962672803",
+  "source": {
+   "name": "Question 1: Which one the following could you save your photos to?",
+   "showName": false,
+   "instructions": "**Question 1: Which one the following could you save your photos to?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Magnetic tape",
+     "correct": false,
+     "_id": "998b9bcd-92b1-1523-0aa2-2a0b521b2c56"
+    },
+    {
+     "answer": "CD-ROM",
+     "correct": false,
+     "_id": "aa5aa2a1-3273-c927-a043-165ebfdf6193"
+    },
+    {
+     "correct": true,
+     "answer": "External hard disk",
+     "_id": "1ad788f4-2dbf-e0cd-721e-9cfdd96c3138"
+    },
+    {
+     "answer": "Printer",
+     "correct": false,
+     "_id": "ee6505d9-9e52-1fef-2c0a-bcc04e4e5b10"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-311229332",
+  "source": {
+   "name": "Question 2: Which two of the following are types of magnetic storage media?",
+   "showName": false,
+   "instructions": "**Question 2: Which two of the following are types of magnetic storage media?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "NAS",
+     "_id": "f6f6850e-1d67-c26d-a5df-ad27eed5157b"
+    },
+    {
+     "answer": "Solid state",
+     "correct": false,
+     "_id": "48f07e02-d246-0f2d-67f6-9715133486fa"
+    },
+    {
+     "correct": true,
+     "answer": "Hard disk",
+     "_id": "c67aba9e-ff65-7ce4-40c7-98ff9cc472db"
+    },
+    {
+     "answer": "Blu-ray",
+     "correct": false,
+     "_id": "1b7c5d1e-e147-b134-5d1f-c8d02a05fb4b"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-486525630",
+  "source": {
+   "name": "Question 3: Which one of the following has the largest storage capacity",
+   "showName": false,
+   "instructions": "**Question 3: Which one of the following has the largest storage capacity**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "DVD",
+     "correct": false,
+     "_id": "0cc911dd-d78e-dab2-f98e-77b138a593ef"
+    },
+    {
+     "answer": "CD",
+     "correct": false,
+     "_id": "9623f305-e8a5-6c0e-6346-a85aa7936a48"
+    },
+    {
+     "correct": true,
+     "answer": "NAS",
+     "_id": "a7dca237-22b7-732e-f0cb-a17c875a0a15"
+    },
+    {
+     "answer": "Floppy disk",
+     "correct": false,
+     "_id": "644306b2-ddcb-150c-2d16-e36d9c9f8799"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3615834651",
+  "source": {
+   "name": "Question 4: Which one of the following is an advantage of magnetic storage?",
+   "showName": false,
+   "instructions": "**Question 4: Which one of the following is an advantage of magnetic storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Capacity",
+     "_id": "78e4bc58-45b6-b2d9-86ad-065fb87c1c92"
+    },
+    {
+     "answer": "Portability",
+     "correct": false,
+     "_id": "ad32da03-c575-ef09-4b2f-f1e7782e34d9"
+    },
+    {
+     "answer": "Density",
+     "correct": false,
+     "_id": "de00283e-6078-35a1-176d-868c1993babb"
+    },
+    {
+     "answer": "Weight",
+     "correct": false,
+     "_id": "ee4ee994-445e-2b97-7f3d-16c17ab3c44c"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2106483269",
+  "source": {
+   "name": "Question 5: Which one of the following is a disadvantage of some magnetic storage?",
+   "showName": false,
+   "instructions": "**Question 5: Which one of the following is a disadvantage of some magnetic storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Density",
+     "correct": false,
+     "_id": "edb89018-822f-ccc1-b8a5-42588cad6cf5"
+    },
+    {
+     "answer": "Weight",
+     "correct": false,
+     "_id": "872e0e1f-70ee-db40-23f6-1ea7a8234dce"
+    },
+    {
+     "correct": true,
+     "answer": "Portability",
+     "_id": "b8dfc827-24a4-084e-e3c1-a2f499434e72"
+    },
+    {
+     "answer": "Capacity",
+     "correct": false,
+     "_id": "fa210272-30e0-537b-6b62-0ec4f1f593fb"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-969164201",
+  "source": {
+   "name": "Question 6: Which one of the following statements is true?",
+   "showName": false,
+   "instructions": "**Question 6: Which one of the following statements is true?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Magnetic storage is less expensive than solid state storage",
+     "_id": "fc53eebe-e695-2ab6-23f6-403b6047fe57"
+    },
+    {
+     "answer": "Magnetic storage is less expensive than binary data",
+     "correct": false,
+     "_id": "8a716eaf-66ab-6db4-1456-9ad54ac618e4"
+    },
+    {
+     "answer": "Magnetic storage is more expensive than solid state storage",
+     "correct": false,
+     "_id": "a0eb073d-3042-c53a-04da-07b4359bed2f"
+    },
+    {
+     "answer": "Magnetic storage is more expensive than binary storage",
+     "correct": false,
+     "_id": "d5fd45cd-7b94-4d57-3f22-34f011f02e9e"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-882121547",
+  "source": {
+   "name": "Question 7: Which one of the following statements is false?",
+   "showName": false,
+   "instructions": "**Question 7: Which one of the following statements is false?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Data can be accessed more quickly from an internal hard disk than an external hard disk",
+     "correct": false,
+     "_id": "252e9e05-a76b-dbc3-ba97-837639e84fa3"
+    },
+    {
+     "answer": "Reading data from magnetic tape can take time",
+     "correct": false,
+     "_id": "8ec3ce8f-cc08-ad19-2b53-4611d0454f05"
+    },
+    {
+     "correct": true,
+     "answer": "Data can be accessed more quickly from an external hard disk than an internal hard disk",
+     "_id": "5e37b239-9498-9b99-aedc-eec93d7711c6"
+    },
+    {
+     "answer": "Data can be accessed more quickly from a solid state drive than a hard disk",
+     "correct": false,
+     "_id": "a71dab9b-153d-3d2f-8fbe-08a6fec367f1"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3783645940",
+  "source": {
+   "name": "Question 8: Which two of the following statements is true?",
+   "showName": false,
+   "instructions": "**Question 8: Which two of the following statements is true?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "correct": true,
+     "answer": "Data capacity of an internal hard disk ranges from 2 GB to over 1TB",
+     "_id": "2dd7cbc5-b75f-4786-634d-60ce10ba8b01"
+    },
+    {
+     "answer": "Data capacity of an internal hard disk ranges from 50PB to 1ZB",
+     "correct": false,
+     "_id": "16073f8b-793f-47fe-b384-e452a5fdfa3d"
+    },
+    {
+     "correct": true,
+     "answer": "Data capacity of an internal hard disk ranges from 120Gb to 1TB",
+     "_id": "465f7020-4535-3529-700b-d8bf44f4e1a6"
+    },
+    {
+     "answer": "Data capacity of an external hard disk ranges from 50Mb to 150MB",
+     "correct": false,
+     "_id": "5b02b5ea-1be4-d103-46a7-078dc302b620"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1861016602",
+  "source": {
+   "name": "Question 9: Which two of the following are not examples of magnetic storage?",
+   "showName": false,
+   "instructions": "**Question 9: Which two of the following are not examples of magnetic storage?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "answer": "HDD",
+     "correct": false,
+     "_id": "c123f663-b4b7-db8a-5eed-6d5db473f94a"
+    },
+    {
+     "correct": true,
+     "answer": "Blu-ray",
+     "_id": "7f4d9bb5-d2af-9b91-789a-692192f2dd8f"
+    },
+    {
+     "answer": "NAS",
+     "correct": false,
+     "_id": "c4022679-3519-422a-1dbd-34dc9605013b"
+    },
+    {
+     "correct": true,
+     "answer": "SDD",
+     "_id": "20a79a3a-8666-8675-1258-dff4afb1c836"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-807901442",
+  "source": {
+   "name": "Question 10: Which one of the following is the best to use if for large amounts of data that does not need to be retrieved quickly or regularly?",
+   "showName": false,
+   "instructions": "**Question 10: Which one of the following is the best to use if for large amounts of data that does not need to be retrieved quickly or regularly?**",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "answer": "Floppy disk",
+     "correct": false,
+     "_id": "d8647ea7-cfc2-8d7b-2e2e-963667df16d3"
+    },
+    {
+     "answer": "CD-ROM",
+     "correct": false,
+     "_id": "3cf55b9d-bf9c-50a7-769d-4b845309ea10"
+    },
+    {
+     "correct": true,
+     "answer": "Magnetic tape",
+     "_id": "5510b96b-3a8c-d289-9a61-6c55697c7765"
+    },
+    {
+     "answer": "DVD-ROM",
+     "correct": false,
+     "_id": "852e9c18-59c2-9161-787a-072a4f970d5b"
+    }
+   ]
+  }
+ }
+]

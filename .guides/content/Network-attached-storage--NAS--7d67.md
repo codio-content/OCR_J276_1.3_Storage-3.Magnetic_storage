@@ -1,0 +1,1 @@
+This storage device acts a network hard drive that can be connected to a network, not directly to a computer.  It enables data to be stored, retrieved and shared from a network.  It can be used at home as well as in an office. 
